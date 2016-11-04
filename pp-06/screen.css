@@ -73,13 +73,13 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 #two {
   order: 2;
-  height: 20vw;
+  height: 40vw;
   width: 50%;
 }
 
 #one {
   order: 1;
-  height: 20vw;
+  height: 40vw;
   width: 50%
 }
 
@@ -89,12 +89,14 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 #content {
 	display: flex;
 	flex-direction: row nowrap;
+	flex: 1;
 }
 
 #three,
 #two,
 #one {
-	width: 100%;
+	height: 30vw;
+  flex: 1;
 }
 
 #three {
