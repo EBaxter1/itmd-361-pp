@@ -5,12 +5,15 @@ For this Production Problem, you and your group are going to establish your grou
 1. Choose one member who’s GitHub account will contain the group repository. Create it on that member’s local computer, along with an empty `README.md` file. Set up the remote repository, and push the initial commit containing the empty `README.md` file.
 
 Write the name of your group members here:
+Ore Olotu
+Antoine Foggs
 
 Write the URL for your shared repository here:
+https://github.com/AFoggs/JavaProject
 
 2. Each member of the group should fork the repository (including the group member who’s account contains the group repository).
 
-Write the URL for your personal repository here:
+Write the URL for your personal repository here: https://github.com/EBaxter1/JavaProject
 
 3. Each member of the group should clone their forked copy of the repository to his/her computer. Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run `git remote add group` followed by the URL for your group’s repository.
 
